@@ -1,0 +1,2 @@
+declare namespace laba6 {
+}
